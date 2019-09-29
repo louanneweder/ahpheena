@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maeleeveog.rockcanteen.com/sitemap.xml
